@@ -1,6 +1,7 @@
-<h1><b>Stats 📊</b></h1>
+# About Me
+Coding, Productivity, Drawing, Video Production & Editing, Digital Graphics, SEO and a strong passion for learning and understanding more about this vast yet simple world is what carries me forward. I am a critical thinker, full of creativity. I have good leadership and management skills and self improvement is my core principle.
 
-## **Competitive Programming Stats** 
+## **CP Stats**
 
 <a href="https://leetcode.com/ItsPranavz/"> ![Leetcode](https://cp-logo.vercel.app/leetcode/ItsPranavz)</a>
 
