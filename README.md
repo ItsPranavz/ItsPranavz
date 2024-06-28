@@ -45,7 +45,7 @@ I am a passionate coder, productivity enthusiast, video editor and a believer of
 <br>
 
 <a href="https://leetcode.com/ItsPranavz/"> 
-  <img src="https://img.shields.io/badge/leetcode-1459-blue?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=%2320232a">
+  <img src="https://img.shields.io/badge/leetcode-1483-blue?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=%2320232a">
 </a>
 
 
