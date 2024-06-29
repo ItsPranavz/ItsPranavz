@@ -38,15 +38,7 @@ I am a passionate coder, productivity enthusiast, video editor and a believer of
 
 ## **CP Stats**
 
-<a href="https://codeforces.com/profile/itspranavz"> 
-  <img src="https://img.shields.io/badge/codeforces-594-red?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=%2320232a">
-</a>
-
-<br>
-
-<a href="https://leetcode.com/ItsPranavz/"> 
-  <img src="https://img.shields.io/badge/leetcode-1483-blue?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=%2320232a">
-</a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/itspranavz?theme=dark&font=Noto%20Sans%20Vai&ext=contest)
 
 
 ## **Github Stats** 
