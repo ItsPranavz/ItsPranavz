@@ -18,7 +18,7 @@ I am a passionate coder, productivity enthusiast, video editor and a believer of
 ![NodeJS](https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=red)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=pink)
-![Bootstrap](https://img.shields.io/badge/ootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
 
 ## Databases
 
