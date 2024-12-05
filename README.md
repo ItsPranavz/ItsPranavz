@@ -44,9 +44,6 @@ I am a passionate coder, productivity enthusiast, video editor and a believer of
 ## **Github Stats** 
 
 ![ItsPranavz github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ItsPranavz)
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=itspranavz&theme=darkhub&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
 ## Contact Me
 
