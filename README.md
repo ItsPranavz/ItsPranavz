@@ -13,9 +13,9 @@ Hi, I am Pranav, the self-certified C.I.D. short for Coder, Innovator, Disruptor
 ## Frameworks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue)
-![NextJS](https://img.shields.io/badge/nextdotjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=green)
-![Electron](https://img.shields.io/badge/electron-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue)
-![Streamlit](https://img.shields.io/badge/streamlit-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue)
+![NextJS](https://img.shields.io/badge/nextjs-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=green)
+![Electron](https://img.shields.io/badge/electron-%2320232a.svg?style=for-the-badge&logo=electron&logoColor=blue)
+![Streamlit](https://img.shields.io/badge/streamlit-%2320232a.svg?style=for-the-badge&logo=streamlit&logoColor=blue)
 ![Flask](https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=red)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=pink)
 
