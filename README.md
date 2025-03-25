@@ -35,16 +35,7 @@ Hi, I am Pranav, the self-certified C.I.D. short for Coder, Innovator, Disruptor
 ![OepnAI](https://img.shields.io/badge/openai-%2320232a.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-%2320232a.svg?style=for-the-badge&logo=tensorflow&logoColor=cyan)
 
-## **CP Stats**
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/itspranavz?theme=dark&font=Noto%20Sans%20Vai&ext=contest)
-
-
-## **Github Stats** 
-
-![ItsPranavz github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ItsPranavz)
-
-## Contact Me
+## Connect
 
 <a href="https://www.linkedin.com/in/ItsPranavz/">
     <img src="https://img.shields.io/badge/linkedin-%2320232a?style=for-the-badge&logo=linkedin&labelColor=blue">
