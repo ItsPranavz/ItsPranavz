@@ -37,14 +37,7 @@ Hi, I am Pranav, the self-certified C.I.D. short for Coder, Innovator, Disruptor
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/ItsPranavz/">
-    <img src="https://img.shields.io/badge/linkedin-%2320232a?style=for-the-badge&logo=linkedin&labelColor=blue">
-</a>
-
-<br>
-
-<a href="mailto:pranavsharma12354@gmail.com@gmail.com">
-    <img src="https://img.shields.io/badge/email_me-%2320232a?style=for-the-badge&logo=gmail&labelColor=red&logoColor=white">
-</a>
+[![Website](https://img.shields.io/badge/Website-pranavsharma.vercel.app-0A66C2?style=for-the-badge&logo=About.me&logoColor=white)](https://pranavsharma.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itspranavz-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/itspranavz/)
 
 
