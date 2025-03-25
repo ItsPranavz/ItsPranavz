@@ -1,5 +1,5 @@
 # About Me
-I am a passionate coder, productivity enthusiast, video editor and a believer of earnest work. I love solving problems from the day-to-day ordinary struggles to big challenges that would shape the future of humanity. I am an "out of the box" thinker and I believe in living life humorously and with a curious mindset. Learning and self-improvement is my core principle and I like to keep an internal locus of control over my circumstances. I love communicating with others and making friends, I believe in the power of collaboration and bringing out the best in everyone. Oh yes, and I like pizza.
+Hi, I am Pranav, the self-certified C.I.D. short for Coder, Innovator, Disruptor and the needle in the haystack! I build AI-driven solutions and scalable web applications of the future. With expertise in Next.js, deep learning, and data structures and algorithms, I thrive on solving complex challenges. Currently shaping the future of online learning with Quantum Jump. Let’s build something impactful!
 
 ## Languages
 
@@ -9,16 +9,15 @@ I am a passionate coder, productivity enthusiast, video editor and a believer of
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=blue)
 ![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=yellow)
-![Markdown](https://img.shields.io/badge/markdown-%2320232a.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Frameworks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue)
-![Express](https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=green)
+![NextJS](https://img.shields.io/badge/nextdotjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=green)
+![Electron](https://img.shields.io/badge/electron-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue)
+![Streamlit](https://img.shields.io/badge/streamlit-%2320232a.svg?style=for-the-badge&logo=react&logoColor=blue)
 ![Flask](https://img.shields.io/badge/flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=red)
 ![TailwindCSS](https://img.shields.io/badge/tailwind_css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=pink)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)
 
 ## Databases
 
