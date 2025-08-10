@@ -1,5 +1,5 @@
 # About Me
-Hi, I am Pranav, the self-certified C.I.D. short for Coder, Innovator, Disruptor and the needle in the haystack! I build AI-driven solutions and scalable web applications of the future. With expertise in Next.js, deep learning, and data structures and algorithms, I thrive on solving complex challenges. Currently shaping the future of online learning with Quantum Jump. Let’s build something impactful!
+Hi, I am Pranav, the self-certified C.I.D. short for Coder, Innovator, Disruptor and the needle in the haystack! I build AI-driven solutions and scalable web applications of the future. With expertise in Next.js, deep learning, and data structures and algorithms, I thrive on solving complex challenges. Currently shaping the future of online learning with Quantum Jump.
 
 ## Languages
 
